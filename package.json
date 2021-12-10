@@ -1,0 +1,25 @@
+{
+  "name": "fullstack-open-blog-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pysudo/fullstack-open-blog-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pysudo/fullstack-open-blog-app/issues"
+  },
+  "homepage": "https://github.com/pysudo/fullstack-open-blog-app#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pg": "^8.7.1",
+    "sequelize": "^6.12.0-beta.2"
+  }
+}
