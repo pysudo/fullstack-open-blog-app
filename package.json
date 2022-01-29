@@ -19,6 +19,7 @@
   "homepage": "https://github.com/pysudo/fullstack-open-blog-app#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
+    "express": "^4.17.2",
     "pg": "^8.7.1",
     "sequelize": "^6.12.0-beta.2"
   }
